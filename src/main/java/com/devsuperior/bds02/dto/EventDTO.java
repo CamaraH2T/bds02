@@ -5,6 +5,7 @@ import java.time.LocalDate;
 
 import com.devsuperior.bds02.entities.Event;
 
+
 public class EventDTO implements Serializable {
 	private static final long serialVersionUID = 1L;
 	
